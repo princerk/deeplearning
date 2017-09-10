@@ -1,2 +1,2 @@
 # deeplearning
-My workbook of Neural Networks and Deep Learning by deeplearning.ai on Coursera
+My workbook on Deep Learning specialization course offered by deeplearning.ai on Coursera
